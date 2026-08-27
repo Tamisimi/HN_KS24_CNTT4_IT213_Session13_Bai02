@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: HN_KS24_CNTT4_IT213_Session13_Bai02
+
+server:
+  port: 8080
